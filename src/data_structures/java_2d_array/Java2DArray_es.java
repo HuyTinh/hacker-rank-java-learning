@@ -1,4 +1,4 @@
-package DataStructures.Java2DArray;
+package data_structures.java_2d_array;
 
 import java.util.ArrayList;
 import java.util.List;

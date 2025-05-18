@@ -1,4 +1,4 @@
-package Strings.ValidUsernameRegularExpression;
+package Strings.valid_username_regular_expression;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package BigNumber.JavaPrimalityTest;
+package big_number.primality_test;
 
 import java.math.BigInteger;
 

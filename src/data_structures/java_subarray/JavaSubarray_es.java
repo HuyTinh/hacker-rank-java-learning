@@ -1,4 +1,4 @@
-package DataStructures.JavaSubarray;
+package data_structures.java_subarray;
 
 import java.util.ArrayList;
 import java.util.Arrays;
