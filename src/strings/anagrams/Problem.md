@@ -20,7 +20,7 @@ The second line contains a string .
 
 **Constraints**
 
-*   Strings and consist of English alphabetic characters.
+*   strings and consist of English alphabetic characters.
 *   The comparison should NOT be case sensitive.
 
 **Sample Input 0**
